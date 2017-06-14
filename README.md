@@ -10,3 +10,4 @@ Akelarre Ciberfeminista es una propuesta para empoderarnos y diseñar juntas un 
 
 ## Recursos
 + [Bot Wiki](https://botwiki.org/): Ejemplos de bots y repositorios de código
++ [Dillinger](http://dillinger.io/): Para editar y visualizar markdown
