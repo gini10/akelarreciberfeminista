@@ -6,7 +6,7 @@ Akelarre Ciberfeminista es una propuesta para empoderarnos y diseñar juntas un 
 ## Tutoriales
 + [Guías de GitHub](https://guides.github.com/)
 + [Video-tutoriales de GitHub](https://www.youtube.com/githubguides)
-+ [Tutorial para crear un bot en Twitter] (https://www.pygaze.org/2016/03/how-to-code-twitter-bot/) >> Este es el primer testeo que vamos a hacer. El tutorial nos enseña a poner en marcha un bot en Twitter, codificando en Python. El bot puede leer contenido y escribir acorde al estilo. También se le puede hacer responder a determinadas palabras. *(tutorial en inglés)*
++ [Tutorial para crear un bot en Twitter](https://www.pygaze.org/2016/03/how-to-code-twitter-bot/) >> Este es el primer testeo que vamos a hacer. El tutorial nos enseña a poner en marcha un bot en Twitter, codificando en Python. El bot puede leer contenido y escribir acorde al estilo. También se le puede hacer responder a determinadas palabras. *(tutorial en inglés)*
 
 ## Recursos
 + [Bot Wiki](https://botwiki.org/): Ejemplos de bots y repositorios de código
