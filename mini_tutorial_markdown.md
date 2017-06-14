@@ -32,6 +32,7 @@ Vamos a hacer una lista con viñetas:
 
 Podemos también poner *cursivas* y **negritas**
 
+## Otras cuestiones
  ¡¡¡ATENSIÓN!!! NO MÁS DE 10MB POR ARCHIVO incluido
 NO METER VIDEO NI IMAGENES SINO LINKS A ESTOS :D QUE PESE POQUITO TODO PARA QUE SE LO BAJE LA PEÑITA
 
