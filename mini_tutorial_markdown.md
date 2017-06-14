@@ -1,11 +1,11 @@
 # #AkelarreCiberfeminista, babies
 testeos y así. vamos a aprender un poquito de markdown para editar textos en GitHub
-más info con la historia de markdown aquí: (https://en.wikipedia.org/wiki/Markdown)
+más info con la historia de markdown [aquí](https://en.wikipedia.org/wiki/Markdown)
 
 ![WTF](https://media.giphy.com/media/3og0ILbTnaClt4PU3u/giphy.gif)
 
 también podemos incluir GIFs y eso me encanta 
-hay una forma de meter emoticonos, pero todavía no se cómo :)
+creo que hay una forma de meter emoticonos, pero todavía no se cómo :)
 ## Párrafos y secciones
 Blablablbalbla mi arma
 En markdown se separan las secciones con niveles, cada vez que añadimos una almohadilla bajamos un nivel (el título aparece un poquito más pequeño que el inicial)
@@ -30,9 +30,9 @@ Vamos a hacer una lista con viñetas:
 * whatever3
 + lo mismo que antes (*=+)
 
-Podemos poner *cursivas* y **negritas**
+Podemos también poner *cursivas* y **negritas**
 
- ¡¡¡ATENSIÓN!!! NO MÁS DE 10MB POR ARCHIVO
+ ¡¡¡ATENSIÓN!!! NO MÁS DE 10MB POR ARCHIVO incluido
 NO METER VIDEO NI IMAGENES SINO LINKS A ESTOS :D QUE PESE POQUITO TODO PARA QUE SE LO BAJE LA PEÑITA
 
 Por ahora, esto es todo amigxs
