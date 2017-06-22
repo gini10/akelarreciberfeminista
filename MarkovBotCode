@@ -1,0 +1,46 @@
+#Codigo del tutorial de Edwin Dalmaijer para hacer un bot basado en el algoritmo cadenas de Markov
+# https://www.pygaze.org/2016/03/how-to-code-twitter-bot/
+import os
+import time
+from markovbot import MarkovBot
+
+# Initialise a MarkovBot instance
+tweetbot = MarkovBot()
+dirname = os.path.dirname(os.path.abspath(__file__))
+# Construct the path to the book
+book = os.path.join(dirname, 'nombre_del_libro.txt')
+# Make your bot read the book!
+tweetbot.read(book)
+
+my_first_text = tweetbot.generate_text(25, seedword=[u'dream', u'psychoanalysis'])
+print(u'\ntweetbot says: "%s"' % (my_first_text))
+
+
+# ALL YOUR SECRET STUFF!
+# Consumer Key (API Key)
+cons_key = 'aquí tu consumer key'
+# Consumer Secret (API Secret)
+cons_secret = 'aquí tu consumer secret'
+# Access Token
+access_token = 'aqui tu acces token'
+# Access Token Secret
+access_token_secret = 'aquí tu acess token secret'
+
+# Log in to Twitter
+tweetbot.twitter_login(cons_key, cons_secret, access_token, access_token_secret)
+
+# Set some parameters for your bot
+targetstring = 'quijote'
+keywords = ['camino', 'molinos', 'hidalgo', 'sancho panza', 'dulcinea']
+prefix = None
+suffix = '#pruebaAkelarreBot'
+maxconvdepth = None
+
+# Start auto-responding to tweets
+# tweetbot.twitter_autoreply_start(targetstring, keywords=keywords, prefix=prefix, suffix=suffix, maxconvdepth=maxconvdepth)
+
+# Start periodically tweeting
+tweetbot.twitter_tweeting_start(days=0, hours=0, minutes=10, keywords=keywords, prefix=prefix, suffix=suffix)
+
+secsinweek = 1 * 2 * 60 * 60
+time.sleep(secsinweek)
