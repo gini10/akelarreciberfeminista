@@ -1,0 +1,9 @@
+Como anteriormente les habia mencionado se tiene que seguir una serie de pasos para que el python funcione correctamente.
+descargar python 2.7  https://www.python.org/downloads/windows/
+cuando este finalizada la descarga dirigerse  al usuario (tu nombre)  de tu sistema windows.
+buscar la carpeta <<local>> 
+copiar el enlace de la carpeta de python
+dirigirse al panel de control
+luego Aplicaciones del sistema y copiar el enlace de la carpeta python
+dar añadir aplicacion
+seguir el tutorial de como crear un bot. 
