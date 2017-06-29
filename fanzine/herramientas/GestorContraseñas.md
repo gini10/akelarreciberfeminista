@@ -51,4 +51,4 @@ Integrar de golpe KeePassX en nuestro día a día puede resultar demasiado exige
 
 > Si decides instalarlo, en este enlace encontrarás una buena guía e información adicional para ayudarte en esta primera fase: https://securityinabox.org/es/guide/keepassx/windows/ 
 
-Cesar DM (@eCesmad)
+César DM (@eCesmad)
