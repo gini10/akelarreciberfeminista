@@ -15,7 +15,7 @@ ThrowAwayMail (http://throwawaymail.com/): es el ejemplo más sencillo. Al abrir
 10 minutes mail (https://10minutemail.com/): parecido al anterior, pero dura solo 10 minutos. Puede parecer poco, pero suele ser suficiente para recibir el mensaje para darte de alta en un servicio, asegurando que tu rastro se elimine pronto. No permite ni personalizar la dirección ni otras opciones. 
 
 
-Cesar DM (@eCesmad)
+César DM (@eCesmad)
 
 
 
