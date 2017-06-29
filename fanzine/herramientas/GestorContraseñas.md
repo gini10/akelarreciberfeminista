@@ -1,4 +1,4 @@
-CÓMO GESTIONAR NUESTRAS CONTRASEÑAS DIGITALES
+#CÓMO GESTIONAR NUESTRAS CONTRASEÑAS DIGITALES
 
 ## Contraseñas seguras
 
@@ -50,3 +50,5 @@ Para Android podemos usar KeePassDroid, con prácticamente las mismas funcionali
 Integrar de golpe KeePassX en nuestro día a día puede resultar demasiado exigente y frustrante. Una forma de empezar podría ser usarlo sólo para aquellos servicios digitales que consideremos más vitales e importantes. Una vez nos hayamos hecho a KeePassX podemos ir incluyendo contraseñas de nuevos servicios, o combinarlo con otros productos (hemos hablado antes de LastPass, pero hay muchos y personalizados según el sistema operativo de nuestro dispositivo) para crearnos un entorno ciberseguro, pero adaptado a nuestras necesidades del día a día.
 
 > Si decides instalarlo, en este enlace encontrarás una buena guía e información adicional para ayudarte en esta primera fase: https://securityinabox.org/es/guide/keepassx/windows/ 
+
+Cesar DM (@eCesmad)
