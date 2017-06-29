@@ -1,4 +1,4 @@
-lgunas estrategias interesantes que te pueden ayudar a desarrollar tacticas de autodefensa feminista digital, sacadas del fanzine "Me falta privacidad para la autonomía de mi deseo" (Medellín, 2016)
+Algunas estrategias interesantes que te pueden ayudar a desarrollar tacticas de autodefensa feminista digital, sacadas del fanzine "Me falta privacidad para la autonomía de mi deseo" (Medellín, 2016)
 
 La  **“fortificación”**, opera creando barreras, restringiendo el acceso y la
 visibilidad, monitorizando quién te sigue o publica acerca tuyo, detectando
