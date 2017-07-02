@@ -1,7 +1,9 @@
 ## Buscadores Alternativos Seguros
 
-La privacidad siempre ha sido uno de los temas más polémicos de Internet. Cuando hablamos de datos personales, es muy importante tener en cuenta que Google y Microsoft, los buscadores mas usados en España, son empresas privadas que guardan y usan esos datos.
-En principio, los datos son utilizados con fines lícitos y “deseables” (como aproximar los resultados de búsqueda a tus gustos), pero también pueden llegar a ser solicitados legalmente, vendidos a otras empresas, hackeados o robados, y por consiguiente, llegar a manos inadecuadas.
+La privacidad siempre ha sido uno de los temas más polémicos de Internet. Cuando hablamos de datos personales, es muy importante tener en cuenta que los buscadores de Google y Microsoft (BIng), los mas usados en España, pertenecen a empresas privadas que guardan y usan esos datos.
+En principio, estos datos son utilizados con fines lícitos y “deseables” (como aproximar los resultados de búsqueda a tus gustos), pero también pueden llegar a ser solicitados legalmente, vendidos a otras empresas, hackeados o robados, y por consiguiente, llegar a manos inadecuadas.
+
+Que alternativas tenemos a estos buscadores? 
 
 
 ### •	DUCKDUCKGO
