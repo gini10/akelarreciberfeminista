@@ -7,7 +7,7 @@ Nombre “Real” | + | + | –
 
 Anonimidad Total | – | – | +
 
-Seudónimia Persistente | – | + | +
+Seudonimia Persistente | – | + | +
 
 Identidad Colectiva | – | + | +
 
@@ -15,7 +15,7 @@ Aquí vemos que el uso de tu **nombre “real”** significa que eres fácilment
 
 También puedes optar por el uso de **identidades anónimas** que permiten formas de expresión y opinión para temas mal vistos o criminalizadas. Por ejemplo, si eres una activista lesbiana viviendo en Sudan, si combates el narco-gobierno o animas una plataforma de leaks, es probable que el anonimato sea una opción conveniente para ti. Esa opción es también la mas difícil de mantener y donde puedes cometer mas fácilmente errores sea a nivel técnico así como de procesos sociales. El anonimato también implica pocas oportunidades de conectarte con otros, y por tanto de ganar confianza y reputación. Si nadie sabe quien eres, nadie puede darte apoyo si afrontas una situación de emergencia o alto riesgo.
 
-Puedes elegir una opción intermediaria creando **identidades seudónomicas**. Existe el riesgo de que estas puedan ser vinculadas a tu identidad en el mundo físico pero usar un seudónimo permanente permite que otros puedan identificarte permitiéndote generar reputación y confianza. El mantenimiento de ese tipo de identidad requiere algo de esfuerzo, particularmente si estás utilizando también tu nombre real en otros lugares.
+Puedes elegir una opción intermediaria creando **identidades seudonómicas**. Existe el riesgo de que estas puedan ser vinculadas a tu identidad en el mundo físico, pero usar un seudónimo permanente permite que otros puedan identificarte permitiéndote generar reputación y confianza. El mantenimiento de ese tipo de identidad requiere algo de esfuerzo, particularmente si estás utilizando también tu nombre real en otros lugares.
 
 Finalmente, también puedes usar una **identidad colectiva** como seria por ejemplo Anonymous o Luther Blisset. Este modelo te expone a posibles riesgos derivados de las acciones de otras personas usando también esa misma identidad. Al mismo tiempo te permite beneficiarte de la reputación del colectivo y contribuir al desarrollo de los imaginarios y acciones relacionados con esa identidad colectiva.
 
