@@ -1,17 +1,17 @@
-Algunas tácticas interesantes que te pueden ayudar a desarrollar estrategias de autodefensa feminista digital, sacadas del fanzine "Me falta privacidad para la autonomía de mi deseo" (Lucía Egaña, Medellín, 2016)
+Algunas tácticas interesantes que te pueden ayudar a desarrollar estrategias de autodefensa feminista digital, sacadas del fanzine "Me falta privacidad para la autonomía de mi deseo" (Lucía Egaña, Medellín, 2016).
 
 La  **“fortificación”**, opera creando barreras, restringiendo el acceso y la
-visibilidad, monitorizando quién te sigue o publica acerca tuyo, detectando
+visibilidad, monitorizando quién te sigue o publica acerca de ti, detectando
 ataques e invasiones de tu privacidad, poniendo barreras al uso de tu nombre
 o identidades por otras personas. Esta estrategia podría definirse como “¡Mi
-cuerpo, mis dispositivos, mis reglas!
+cuerpo, mis dispositivos, mis reglas!"
 
-La **“reducción”** de tus rastros, bajo el lema de la Bauhaus “menos es más”, son tácticas que se pueden combinar para generar escasez de información acerca tuyo. Puedes por ejemplo limpiar o borrar perfiles o cuentas que no usas,
-ignorar a algunas personas, dejar de publicar imágenes y contenidos acerca tuyo y tus amigas, ordenar y organizar las identidades  asociadas  que  te resultan imprescindibles. Esta estrategia también se aplica a través de
+La **“reducción”** de tus rastros, bajo el lema de la Bauhaus “menos es más”, son tácticas que se pueden combinar para generar escasez de información acerca de ti. Puedes por ejemplo limpiar o borrar perfiles o cuentas que no usas,
+ignorar a algunas personas, dejar de publicar imágenes y contenidos sobre ti y tus amigas, ordenar y organizar las identidades  asociadas  que te resultan imprescindibles. Esta estrategia también se aplica a través de
 tácticas de reciclaje, como dotar tecnologías viejas de nuevos usos.
 
 El **“camuflaje”** funciona  a  la  inversa  de  la  reducción  ya  que  en  este  modelo 
-cuantos más datos y ruido generes mejor. Se busca una inflación de datos que 
+cuantos más datos y ruido generes, mejor. Se busca una inflación de datos que 
 permita  reducir  su  valor.  Puede  romper  tus  rutinas,  producir  pistas  e 
 informaciones  falsas,  generar  ruido  disonante  alrededor  de  tus  identidades, 
 usar  identidades  colectivas  para  esconderte  y  camuflar  tus  objetivos  y 
