@@ -1,4 +1,5 @@
 ¿Cómo coño hago para ser Anonimx en Internet?
+
 Para las que poco sabemos de seguridad en internet herramientas como tor no es parte de nuestro vocabulario común. Al igual que yo que apenas me empapo del tema me pareció muy interesante saber que este tipo de herramientas existían para ser anonimxs. Si muchxs se estarán preguntando ¿pero qué diablos es Tor?  Bueno Tor es una red que implementa técnica llamada Onion Routing, que en español sería algo como enrutado cebolla. Esta red fue principalmente diseñada para proteger las comunicaciones en la Marina de los Estados Unidos. La idea es cambiar el modo de enrutado tradicional de Internet para garantizar el anonimato y privacidad de los datos.
 ¿Y si, pero como es un enrutado tradicional? 
 El que más se usa es Directo ósea Ana quiere entrar a la página de web a buscar información del ordenador se conecta de forma directa a los servidores de la página. La ruta es, a grandes rasgos, sencilla: del ordenador al router, de ahí a los enrutadores de tu ISP (proveedor de Internet) y después directos a los servidores de la página.
