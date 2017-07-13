@@ -51,13 +51,14 @@ print(u'\ntweetbot says: "%s"' % (my_first_text))
 
 # ALL YOUR SECRET STUFF!
 # Consumer Key (API Key)
-cons_key = 'lqzKsFXWmNVQ4awHpAcQWKyAA'
+cons_key = 'lqzKsF
+
 # Consumer Secret (API Secret)
-cons_secret = 'kSWtbILE83lZmhDIuqF9hrpptoXJTsN77VCif17Y6R3v0zMTON'
+cons_secret = 
 # Access Token
-access_token_secret = 'RJzaXI2rN1V83A6A6ebiNc2BGMOe61b0Mnt6ehbiY0e9u'
+access_token_secret = 
 # Access Token Secret
-access_token = '876373402830983168-JdVyA4JD4FkPc2RyefNdG20YN4INlIP'
+access_token 
 
 
 # Log in to Twitter
