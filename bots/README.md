@@ -2,7 +2,7 @@
 
   - [Bot OrgulloLGTBI](https://github.com/gini10/akelarreciberfeminista/blob/master/bots/Bot_OrgulloLGTBI)
   - [MarkovBot](https://github.com/gini10/akelarreciberfeminista/blob/master/bots/MarkovBotCode)
-  - [ZorraMutante (Autoreply)]
+  - [ZorraMutante (Autoreply)](https://github.com/gini10/akelarreciberfeminista/blob/master/bots/ZorraMutante.py)
   
  ## Guías
 
@@ -11,7 +11,7 @@
 - [Tutorial Tweepy (librería bots twitter en Python)](https://github.com/gini10/akelarreciberfeminista/blob/master/bots/Tutorial_Tweepy.md)
 - [Cómo evitar bloqueos](https://github.com/gini10/akelarreciberfeminista/blob/master/bots/evitar_bloqueos_bots_y_lecciones_aprendidas.md)
 
-## Dependencias
+## Truquis
 
 ### Incluir Emojis
 
