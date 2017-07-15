@@ -15,13 +15,11 @@
 
 ### Incluir Emojis
 
-Al inicio del script de la bot incluir
+Al inicio del script de la bot :
 ```sh
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 reload(sys)
 sys.setdefaultencoding('utf-8')
 ```
-
-
-  
+💜✊
