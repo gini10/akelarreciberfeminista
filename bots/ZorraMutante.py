@@ -15,7 +15,7 @@ sys.setdefaultencoding('utf-8')
 tweetbot = MarkovBot()
 
 # Make your bot read the book!
-tweetbot.read('URL_textoManifesto')
+tweetbot.read('https://github.com/gini10/akelarreciberfeminista/blob/master/bots/ZorraMutante.py')
 
 my_first_text = tweetbot.generate_text(10, seedword=[u'código', u'límite', u'hay'])
 print(u'\ntweetbot says: "%s"' % (my_first_text))
