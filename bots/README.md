@@ -2,7 +2,7 @@
 
   - [Bot OrgulloLGTBI](https://github.com/gini10/akelarreciberfeminista/blob/master/bots/Bot_OrgulloLGTBI)
   - [MarkovBot](https://github.com/gini10/akelarreciberfeminista/blob/master/bots/MarkovBotCode)
-  - [Autoreply]
+  - [ZorraMutante (Autoreply)]
   
  ## Guías
 
